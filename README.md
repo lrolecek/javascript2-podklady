@@ -45,6 +45,8 @@ Ukážeme si, jak komunikovat se vzdáleným serverem a pomocí API z něho zís
 
 ## Lekce 5
 
-Pokračujeme ve stahování dat ze serveru pomocí fetch. Ukážeme si async/await pro synchronní vykonávání asynchroního kódu.
+Pokračujeme ve stahování dat ze serveru pomocí fetch. Ukážeme si async/await pro synchronní vykonávání asynchronního kódu.
 
-1. [Async/await](lekce05/async-await.md)
+1. [Async/await - synchronní vykonávání asynchronního kódu](lekce05/async-await.md)
+2. [Ošetření chyb - try/catch/finally](lekce05/try-catch.md)
+3. [Promise.all - čekání na splnění více promise najednou](lekce05/promise-all.md)
