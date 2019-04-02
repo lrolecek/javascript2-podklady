@@ -10,7 +10,7 @@ Naše aplikace chceme psát modulárně. Chceme kód rozdělit do malých **modu
 
 # Jak spouštět
 
-babel i Webpack máme v našem startovním projektu nakonfigurované. Vždy, když budeme chtít sestavit naši aplikaci, použijeme v terminálu příkaz:
+Babel i Webpack máme v našem startovním projektu nakonfigurované. Vždy, když budeme chtít sestavit naši aplikaci, použijeme v terminálu příkaz:
 
 `npm run build`
 
@@ -18,4 +18,4 @@ Součástí Webpacku je i lokální webový server, který nám umožňuje spou�
 
 `npm run serve`
 
-Tímto příkazem spustíme webový server, který přímo otevře naši aplikaci a zároveň provádí tzv. **live reload** - každou změna v kódu se okamžitě promítne v prohlížeči.
+Tímto příkazem spustíme webový server, který přímo otevře naši aplikaci a zároveň provádí tzv. **live reload** - každou změna v kódu se okamžitě promítne v prohlížeči bez nutnosti ručně stránku obnovovat.

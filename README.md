@@ -4,7 +4,7 @@
 
 Nebude-li řečeno jinak, pro příklady, domácí úkoly, a další projekty v rámci kurzu budeme vycházet vždy ze startovního projektu. Konfigurace Webpacku a Babelu (viz. lekce 1) může být poměrně složitá a je mimo rámec toho kurzu, proto je ve startovním projektu vše připraveno a nakonfigurováno. U projektu je návod, jak ho nainstalovat a používat.
 
-[Prázdný startovní projekt ke stažení](https://github.com/lrolecek/javascript2-start)
+[Prázdný startovní projekt ke stažení](https://czchts.cz/js2-start)
 
 
 ## Lekce 1
