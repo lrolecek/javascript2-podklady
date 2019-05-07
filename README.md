@@ -50,3 +50,13 @@ Pokračujeme ve stahování dat ze serveru pomocí fetch. Ukážeme si async/awa
 1. [Async/await - synchronní vykonávání asynchronního kódu](lekce05/async-await.md)
 2. [Ošetření chyb - try/catch/finally](lekce05/try-catch.md)
 3. [Promise.all - čekání na splnění více promise najednou](lekce05/promise-all.md)
+
+
+## Lekce 10
+
+Ukážeme si rozdíl mezi předáváním parametrů hodnotou a odkazem. Vyzkoušíme si, jak k objektu přistupovat podobně jako k poli. Vysvětlíme si princip datového skladu (data store), ve kterém lze uchovávat stav aplikace.
+
+1. [Předávání hodnotou nebo odkazem](lekce10/value-reference.md)
+2. [Přístup k vlastnostem objektu podobně jako u pole](lekce10/object-array.md)
+3. [Princip data store a uchování stavu aplikace](lekce10/data-store.md)
+
