@@ -58,5 +58,8 @@ Ukážeme si rozdíl mezi předáváním parametrů hodnotou a odkazem. Vyzkouš
 
 1. [Předávání hodnotou nebo odkazem](lekce10/value-reference.md)
 2. [Přístup k vlastnostem objektu podobně jako u pole](lekce10/object-array.md)
-3. [Princip data store a uchování stavu aplikace](lekce10/data-store.md)
+
+
+## Lekce 11
+3. [Princip data store a uchování stavu aplikace](lekce11/data-store.md)
 
